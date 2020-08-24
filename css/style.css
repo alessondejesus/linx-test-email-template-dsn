@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a, button {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #888888;
+    text-decoration: none;
+}
+
+#container {
+    font-family: 'Roboto', sans-serif;
+    color: #888888;
+    width: 600px;
+    height: 973px;
+    margin: 0 auto;
+}
+
+header {
+    height: 198px;
+    background: linear-gradient(186deg, #707070 75%, #fff 75%);
+}
+
+#nav {
+    color: #fff;
+    padding-top: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#nav span {
+    font-size: 20px;
+}
+
+#nav h1 {
+    font-size: 40px;
+}
+
+#nav p {
+    font-size: 14px;
+    width: 360px;
+    padding-top: 5px;
+}
+
+#app {
+    margin: 0 21px 0 21px;
+}
+
+#invited span {
+    font-size: 20px;
+}
+
+#invited p {
+    line-height: 18px;
+    font-size: 12px;
+    padding-top: 9px;
+    min-height: 60px;
+}
+
+#products {
+    padding-top: 14px;
+    padding-bottom: 62px;
+}
+
+.products {
+    width: 200px;
+}
+
+.products {
+    max-height: 350px;
+}
+
+.products img {
+    width: 200px;
+    height: 150px;
+}
+
+.products h4 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.products p {
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.product-price span {
+    font-size: 12px;
+}
+
+.product-price h5 {
+    font-size: 16px;
+    padding: 6px 0 7px 0;
+}
+
+.product-price button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 6px 0 6px 0;
+}
+
+#invite {
+    text-align: center;
+    padding: 11px 0 61px 0;
+}
+#invite a{
+    padding: 11px 82px 11px 82px;
+}
+#footer{
+    height: 158px;
+    background-image: linear-gradient(-5deg, #707070 75%, #fff 75%);
+    text-align: center;
+}
+#footer .copyright {
+    padding-top: 79px;
+    color: #fff;
+    font-size: 12px;
+}
