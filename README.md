@@ -4,11 +4,11 @@
 
 ### v1.0.x
 ------------
-##### v1.0.1 beta
+##### v1.0.1.1 beta
 - **[Preview em breve...](https://alessondejesus.github.io/  "Clique Aqui")**
 
 # Detalhes da versão!
 
-  - Versão base, modelo do layout básico do email
+  - Testando esquema de módulos ES6+
 _A resolução ideal é de 600px, portanto, verifique suas definições para uma melhor experiência..._
 ------------
