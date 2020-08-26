@@ -2,7 +2,7 @@
  ![stable](https://img.shields.io/badge/stable-v1.1.1-blue?labelColor=black&style=flat)  
  
 **[Preview here...](https://alessondejesus.github.io/linx-test-email-template-dsn/")**
-###### _  The ideal resolution is 600px,  check your settings for the best experience :D_
+###### *The ideal resolution is 600px,  check your settings for the best experience :D*
 
 ### v1.1.1 - Features
 
